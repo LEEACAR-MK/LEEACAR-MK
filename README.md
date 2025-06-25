@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning **React, TypeScript, and Backend Development**
 - 💬 Ask me about **JavaScript, Python, and Game Development**
-- 📫 How to reach me: **leeacar.dev@gmail.com**
-- ⚡ Fun fact: I love building things that move — cars, code, or both 😄
+- 📫 **mkmk2180@gmail.com**
+- ⚡ I love building things that move — cars, code, or both 😄
 
 ---
 
